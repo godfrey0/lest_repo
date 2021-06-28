@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 NEW
 
@@ -8,3 +9,8 @@ NEW
 
 master
 
+=======
+1
+master
+latest
+>>>>>>> master
