@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 1 trip hub
 1 trip git
@@ -18,8 +19,7 @@
 10 local
 10 remote
 
-
-
-
-
+new
+old
+mild
 
