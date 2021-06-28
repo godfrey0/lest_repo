@@ -1,5 +1,3 @@
-
-old
-mild
+crushed
 
 
